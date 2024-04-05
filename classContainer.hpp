@@ -1,5 +1,5 @@
-#ifndef H_CLASSCONTAINER
-#define H_CLASSCONTAINER
+#ifndef HPP_CLASSCONTAINER
+#define HPP_CLASSCONTAINER
 #include <iostream>
 #include <vector>
 #include "classFlowers.h"
