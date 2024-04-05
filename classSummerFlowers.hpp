@@ -1,5 +1,5 @@
-#ifndef H_CLASSSUMMERFLOWERS
-#define H_CLASSSUMMERFLOWERS
+#ifndef HPP_CLASSSUMMERFLOWERS
+#define HPP_CLASSSUMMERFLOWERS
 #include <iostream>
 #include <vector>
 #include "classFlowers.h"
