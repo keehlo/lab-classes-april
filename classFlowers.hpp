@@ -1,5 +1,5 @@
-#ifndef H_CLASSFLOWERS
-#define H_CLASSFLOWERS
+#ifndef HPP_CLASSFLOWERS
+#define HPP_CLASSFLOWERS
 #include <iostream>
 #include <vector>
 using namespace std;
