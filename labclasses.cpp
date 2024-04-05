@@ -38,11 +38,9 @@ int main()
         cout << "for finishing the programm enter 0" << endl;
         string number;
         cin >> number;
-        if (number == "1")
-        {
+        if (number == "1"){
             container.printSeasonFlowers();
-        } else if (number == "2")
-        {
+        } else if (number == "2"){
             container.createFlower();
         } else if (number == "3"){
             container.printAllFlowers();
