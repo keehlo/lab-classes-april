@@ -22,9 +22,6 @@ public:
     virtual string getPrice(){
         return 0;
     }
-    virtual string flowersScent(){
-        return "smells like smth";
-    }
 private:
     string name;
     string price;
