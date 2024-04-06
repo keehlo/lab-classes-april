@@ -20,9 +20,6 @@ public:
     virtual string getPrice(){
         return 0;
     }
-    virtual string flowersScent(){
-        return "smells like smth";
-    }
 private:
     string name;
     string price;
@@ -46,9 +43,6 @@ public:
     }
     string getPrice(){
         return price;
-    }
-    string flowersScent(){
-        return name + "smells like snow";
     }
 private:
     string name;
@@ -83,9 +77,6 @@ public:
     string getPrice(){
         return price;
     }
-    string flowersScent(){
-        return name + "smells like a fresh start";
-    }
 private:
     string name;
     string price;
@@ -116,9 +107,6 @@ public:
     string getPrice(){
         return price;
     }
-    string flowersScent(){
-        return name + "smells like sea";
-    }
 private:
     string name;
     string price;
@@ -148,9 +136,6 @@ public:
     }
     string getPrice(){
         return price;
-    }
-    string flowersScent(){
-        return name + "smells like a three hours nap";
     }
 private:
     string name;
