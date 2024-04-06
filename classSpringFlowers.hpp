@@ -2,7 +2,7 @@
 #define HPP_CLASSSPRINGFLOWERS
 #include <iostream>
 #include <vector>
-#include "classFlowers.h"
+#include "classFlowers.hpp"
 using namespace std;
 
 class SpringFlowers: public Flowers
