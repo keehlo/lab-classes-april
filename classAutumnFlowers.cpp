@@ -22,9 +22,6 @@ public:
     string getPrice(){
         return price;
     }
-    string flowersScent(){
-        return name + "smells like a three hours nap";
-    }
 private:
     string name;
     string price;
