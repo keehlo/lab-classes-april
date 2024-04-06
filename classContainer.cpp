@@ -1,10 +1,10 @@
 #include <iostream>
 #include <vector>
-#include "classFlowers.h"
-#include "classWinterFlowers.h"
-#include "classSpringFlowers.h"
-#include "classSummerFlowers.h"
-#include "classAutumnFlowers.h"
+#include "classFlowers.hpp"
+#include "classWinterFlowers.hpp"
+#include "classSpringFlowers.hpp"
+#include "classSummerFlowers.hpp"
+#include "classAutumnFlowers.hpp"
 using namespace std;
 
 class Container {
